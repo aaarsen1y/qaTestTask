@@ -25,5 +25,4 @@ npx playwright test
 npx playwright show-report
 ```
 
-### Для просмотра результатов теста перейдите в папку "playwright-report" и откройте файл [index.html](https://github.com/aaarsen1y/qaTestTask/blob/main/playwright-report/index.html)
-
+### Для просмотра результатов теста перейдите в папку "playwright-report" и откройте файл index.html
