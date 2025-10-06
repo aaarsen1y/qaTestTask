@@ -1,4 +1,4 @@
-### Перейдите в командную строку и клонируйте репозиторий:
+### Перейдите в терминал и клонируйте репозиторий:
 
 ```
 git clone https://github.com/aaarsen1y/qaTestTask
@@ -10,7 +10,7 @@ cd qaTestTask
 ### После клонирования репозитория выполните команды:
 
 ```
-npm ci
+npm ci 
 ```
 
 ```
@@ -25,4 +25,5 @@ npx playwright test
 npx playwright show-report
 ```
 
-### Для просмотра результатов теста перейдите в папку "playwright-report"
+### Для просмотра результатов теста перейдите в папку "playwright-report" и откройте файл [index.html](https://github.com/aaarsen1y/qaTestTask/blob/main/playwright-report/index.html)
+
