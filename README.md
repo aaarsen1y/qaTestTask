@@ -25,5 +25,6 @@ npx playwright test
 npx playwright show-report
 ```
 
-### Для просмотра результатов теста перейдите в папку "playwright-report" и откройте файл index.html
+### Если вы хотите посмотреть результаты теста без запуска, скачайте папку `playwright-report` из репозитория и откройте файл `index.html` в браузере.
+
 
